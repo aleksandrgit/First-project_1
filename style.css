@@ -684,6 +684,10 @@ video {
     order: 3;
   }
 
+  .section__contact {
+    padding-top: 80px;
+  }
+
 }
 
 @media(max-width:450px) {
